@@ -4792,7 +4792,7 @@ a.badge-dark:focus, a.badge-dark.focus {
 }
 
 .jumbotron {
-  background-image: url("../assets/img/cube.jpg");
+  background-image: url("../home.jpg");
   padding-top: 10.5rem;
   padding-bottom: 6rem;
   text-align: center;
@@ -10122,7 +10122,7 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-  background-image: url("../assets/img/header-bg.jpeg");
+  background-image: url("../canvas/assets/img/header-bg.jpeg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
